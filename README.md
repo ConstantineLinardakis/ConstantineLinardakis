@@ -13,7 +13,7 @@
 ### Spotify Playing 🎧
 [<img src="https://now-playing-novatorem.constantinelinardakis.vercel.app//api/spotify-playing" alt="TwinPlayz Spotify Playing" width="350" />](https://open.spotify.com/user/thetwinersplayz)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">SKILLS BELOW</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=constantinelinardakis" alt="constantinelinardakis" /> </p>
 
