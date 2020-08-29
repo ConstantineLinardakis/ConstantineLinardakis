@@ -23,9 +23,9 @@
 
 <p align="center">
 <a href="https://twitter.com/twinplayz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twinplayz" height="30" width="30" /></a>
-<a href="https://fb.com/constantinelinardakis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="constantinelinardakis" height="30" width="30" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010804026102" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="constantinelinardakis" height="30" width="30" /></a>
 <a href="https://instagram.com/constantinelinardakis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="constantinelinardakis" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/twinplayz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="twinplayz" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCuA1LgaY5O-kCBPZfjhIx9g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="twinplayz" height="30" width="30" /></a>
 </p>
 
 
