@@ -13,12 +13,6 @@
 ### Spotify Playing 🎧
 [<img src="https://now-playing-novatorem.constantinelinardakis.vercel.app//api/spotify-playing" alt="TwinPlayz Spotify Playing" width="350" />](https://open.spotify.com/user/thetwinersplayz)
 
-### Connect with me:
-
-[<img align="left" alt="TwinPlayz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="TwinPlayz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ConstantineLinardakis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <h3 align="center">SKILLS BELOW</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=constantinelinardakis" alt="constantinelinardakis" /> </p>
