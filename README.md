@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I really do like Python and HTML.
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-novatorem.constantinelinardakis.vercel.app//api/spotify-playing" alt="TwinPlayz Spotify Playing" width="350" />](https://open.spotify.com/user/thetwinersplayz)
+[<img src="https://now-playing-spotify.constantinelinardakis.vercel.app//api/spotify-playing" alt="TwinPlayz Spotify Playing" width="350" />](https://open.spotify.com/user/thetwinersplayz)
 
 <h3 align="center">SKILLS BELOW</h3>
 
