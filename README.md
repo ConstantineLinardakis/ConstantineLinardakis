@@ -35,6 +35,8 @@
 
 [![Website](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCuA1LgaY5O-kCBPZfjhIx9g)
 [![Website](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white")](https://www.twitch.tv/rdx_twinplayzyt)
+[![Website](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white")]
+(https://discord.gg/6hmwuh5 )
 
 
 
