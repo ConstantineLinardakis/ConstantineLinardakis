@@ -33,7 +33,8 @@
 [![Website](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white")](https://discord.gg/6hmwuh5 )
 [![Website](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white")](constantinelinardakis@gmail.com)
 [![Website](https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok")](https://www.tiktok.com/@x___justforfun___x")
-[![Website](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"(https://twitter.com/twinplayz")
+[![Website](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white")](https://twitter.com/twinplayz")
+
 
 
 <a href="https://twitter.com/twinplayz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twinplayz" height="30" width="30" /></a>
