@@ -34,14 +34,13 @@
 [![Website](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white")](constantinelinardakis@gmail.com)
 [![Website](https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok")](https://www.tiktok.com/@x___justforfun___x")
 [![Website](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white")](https://twitter.com/twinplayz")
-
-
-
-<a href="https://twitter.com/twinplayz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twinplayz" height="30" width="30" /></a>
-<a href="https://www.facebook.com/profile.php?id=100010804026102" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="constantinelinardakis" height="30" width="30" /></a>
-<a href="https://instagram.com/constantinelinardakis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="constantinelinardakis" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UCuA1LgaY5O-kCBPZfjhIx9g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="twinplayz" height="30" width="30" /></a>
-
+[![Website](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white")](https://www.facebook.com/profile.php?id=100010804026102")
+[![Website](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white")](https://instagram.com/constantinelinardakis")
+[![Website](https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white"")](https://account.xbox.com/en-us/Profile?xr=mebarnav&rtc=1")
+[![Website](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white")](https://steamcommunity.com/profiles/76561198219994937/")
+[![Website](https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike")](https://steamcommunity.com/profiles/76561198219994937/")
+[![Website](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white")](https://www.paypal.com/paypalme/TwinPlayzYT")
+[![Website](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white")](https://open.spotify.com/user/thetwinersplayz")
 
 
 
