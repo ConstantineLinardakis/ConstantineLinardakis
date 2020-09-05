@@ -23,11 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=constantinelinardakis&show_icons=true" alt="constantinelinardakis" /></p>
 
-<p align="center">
-<a href="https://twitter.com/twinplayz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twinplayz" height="30" width="30" /></a>
-<a href="https://www.facebook.com/profile.php?id=100010804026102" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="constantinelinardakis" height="30" width="30" /></a>
-<a href="https://instagram.com/constantinelinardakis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="constantinelinardakis" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UCuA1LgaY5O-kCBPZfjhIx9g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="twinplayz" height="30" width="30" /></a>
 </p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img   src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img     src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
@@ -36,6 +31,10 @@
 [![Website](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCuA1LgaY5O-kCBPZfjhIx9g)
 [![Website](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white")](https://www.twitch.tv/rdx_twinplayzyt)
 [![Website](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white")](https://discord.gg/6hmwuh5 )
-
+<p align="center">
+<a href="https://twitter.com/twinplayz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twinplayz" height="30" width="30" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010804026102" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="constantinelinardakis" height="30" width="30" /></a>
+<a href="https://instagram.com/constantinelinardakis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="constantinelinardakis" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCuA1LgaY5O-kCBPZfjhIx9g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="twinplayz" height="30" width="30" /></a>
 
 
