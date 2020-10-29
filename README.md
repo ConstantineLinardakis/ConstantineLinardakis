@@ -9,7 +9,7 @@
 - 💬 Ask me about anything, and im here to help out or talk to.
 - 📫 How to reach me: constantinelinardakis@gmail.com, or my Discord : TwinPlayz#0154
 
-## ⚡ Fun fact: I really do like JAVA and HTML, and I actually made a game this 2020 that hit over 13 million visits.
+## ⚡ Fun fact: I really do like JAVA and HTML, and I actually made a game this 2020 that hit over 13 million visits (Using LUA).
 [![Website](https://img.shields.io/website?label=CLICKFORGAME&style=for-the-badge&url=https%3A%2F%2FMyWebsite)](https://www.roblox.com/games/1076861807/Cocoa-ALPHA-ITS-BACK#!/game-instances)
 
 ### Spotify Playing 🎧
