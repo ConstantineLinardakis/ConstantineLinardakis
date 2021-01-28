@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=ConstantineLinardakis.com&style=for-the-badge&url=https%3A%2F%2FMyWebsite)](https://constantinelinardakis.github.io/TwinPlayz/)
 
 - 🔭 I’m currently working on school, developing, and making videos for my youtube channel atm.
-- 🌱 I’m currently learning java in my programming class, and learning some new editing tips.
+- 🌱 I’m currently learning java in my programming class, and learning LUA, HTML, and CSS.
 - 👯 I’m looking forward to these next few years, and see where it goes.
 - 🤔 I’m also looking for help on more HTML work, so let me know if you can help out.
 - 💬 Ask me about anything, and im here to help out or talk to.
@@ -11,9 +11,6 @@
 
 ## ⚡ Fun fact: I really do like JAVA and HTML, and I actually made a game this 2020 that hit over 13 million visits (Using LUA).
 [![Website](https://img.shields.io/website?label=CLICKFORGAME&style=for-the-badge&url=https%3A%2F%2FMyWebsite)](https://www.roblox.com/games/1076861807/Cocoa-ALPHA-ITS-BACK#!/game-instances)
-
-### Spotify Playing 🎧
-[<img src="https://novatorem.constantinelinardakis.vercel.app/api/spotify-playing" alt="TwinPlayz Now Playing" width="350" />](https://open.spotify.com/user/thetwinersplayz)
 
 <h3 align="center">SKILLS BELOW</h3>
 
