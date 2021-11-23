@@ -1,6 +1,6 @@
 ### Hello welcome to my profile. 👋
 
-[![Website](https://img.shields.io/website?label=ConstantineLinardakis.com&style=for-the-badge&url=https%3A%2F%2FMyWebsite)](https://constantinelinardakis.github.io/TwinPlayz/)
+[![Website](https://img.shields.io/website?label=TwinPlayz.com&style=for-the-badge&url=https%3A%2F%2FMyWebsite)](https://constantinelinardakis.github.io/TwinPlayzOfficial/index.html)
 
 - 🔭 I’m currently working on school, developing, and making videos for my youtube channel atm.
 - 🌱 I’m currently learning java in my programming class, and learning LUA, HTML, and CSS.
